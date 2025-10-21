@@ -25,7 +25,7 @@ let Laptops = [
     id: 4,
     model: "Macbook M3 air",
      color: "",
-     img: "/air.jpeg",
+     img: "/Laptops/public/air.jpeg",
      price:"1099"
     },
 
